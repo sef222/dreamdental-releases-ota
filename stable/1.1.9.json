@@ -5,8 +5,8 @@
   "minimumVersion": "1.1.6",
   "releaseDate": "2026-09-24",
   "downloadUrl": "https://github.com/sef222/dreamdental-releases-ota/releases/download/v1.1.9/DreamDental-v1.1.9.zip",
-  "sha256": "55283e9853d6fdc8c2ec7d41688f7493a4c3c1f4a03fca26543447d9ab00b886",
-  "size": 240276792,
+  "sha256": "5aa6e663689646a258fbfc4a4c5608b18c05b0ac2424a4a3bd85a2551c048a3b",
+  "size": 240286003,
   "releaseNotes": {
     "new": [
       "DreamDental version 1.1.7 release."
