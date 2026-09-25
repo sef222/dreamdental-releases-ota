@@ -1,0 +1,25 @@
+{
+  "version": "1.2.1",
+  "channel": "stable",
+  "mandatory": false,
+  "minimumVersion": "1.2.0",
+  "releaseDate": "2026-09-25",
+  "downloadUrl": "https://github.com/sef222/dreamdental-releases-ota/releases/download/v1.2.1/DreamDental-v1.2.1.zip",
+  "sha256": "8f95cd4732154285f951a493b8674fcfc28172148240c73cd44797fd71916e0f",
+  "size": 238506403,
+  "releaseNotes": {
+    "new": [
+      "DreamDental version 1.2.1 release."
+    ],
+    "improved": [
+      "Application performance and responsiveness improvements."
+    ],
+    "fixed": [
+      "General bug fixes and UI refinements."
+    ],
+    "security": [
+      "Enforced data protection invariants and secure update boundaries."
+    ],
+    "IsEmpty": false
+  }
+}
